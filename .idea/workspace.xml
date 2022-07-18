@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e45defe0-c403-4b0e-ac75-54b65ff6e389" name="변경" comment="practice1">
-      <change afterPath="$PROJECT_DIR$/src/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice3.java" afterDir="false" />
+    <list default="true" id="e45defe0-c403-4b0e-ac75-54b65ff6e389" name="변경" comment="practice">
       <change afterPath="$PROJECT_DIR$/src/Practice4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Practice5.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Practice6.java" afterDir="false" />
@@ -42,14 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.Practice3">
-    <configuration name="Logarithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Logarithm" />
-      <module name="java-algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.Practice5">
     <configuration name="LogarithmPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LogarithmPractice" />
       <module name="java-algorithm" />
@@ -71,8 +62,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursivePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RecursivePractice" />
+    <configuration name="Practice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice4" />
+      <module name="java-algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice5" />
       <module name="java-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Practice5" />
+        <item itemvalue="애플리케이션.Practice4" />
         <item itemvalue="애플리케이션.Practice3" />
         <item itemvalue="애플리케이션.Practice2" />
         <item itemvalue="애플리케이션.LogarithmPractice" />
-        <item itemvalue="애플리케이션.Logarithm" />
-        <item itemvalue="애플리케이션.RecursivePractice" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658157956920</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="practice">
+      <created>1658160093245</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1658160093245</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +188,7 @@
     <MESSAGE value="7 지수와 로그" />
     <MESSAGE value="8. 알고리즘 복잡도" />
     <MESSAGE value="practice1" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice1" />
+    <MESSAGE value="practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice" />
   </component>
 </project>
