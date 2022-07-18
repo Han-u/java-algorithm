@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e45defe0-c403-4b0e-ac75-54b65ff6e389" name="변경" comment="3. 순열">
-      <change afterPath="$PROJECT_DIR$/src/Combination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CombinationPractice.java" afterDir="false" />
+    <list default="true" id="e45defe0-c403-4b0e-ac75-54b65ff6e389" name="변경" comment="5. 조합">
+      <change afterPath="$PROJECT_DIR$/src/Recursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecursivePractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,15 +33,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="애플리케이션.NumberOfCasesPractice">
+}</component>
+  <component name="RunManager" selected="애플리케이션.RecursivePractice">
     <configuration name="NumberOfCasesPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumberOfCasesPractice" />
+      <module name="java-algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursivePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursivePractice" />
       <module name="java-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,6 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.RecursivePractice" />
         <item itemvalue="애플리케이션.NumberOfCasesPractice" />
         <item itemvalue="애플리케이션.SetPractice" />
       </list>
@@ -98,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658081623212</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="5. 조합">
+      <created>1658082395981</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658082395981</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +131,7 @@
     <MESSAGE value="1. 집합" />
     <MESSAGE value="2. 경우의수" />
     <MESSAGE value="3. 순열" />
-    <option name="LAST_COMMIT_MESSAGE" value="3. 순열" />
+    <MESSAGE value="5. 조합" />
+    <option name="LAST_COMMIT_MESSAGE" value="5. 조합" />
   </component>
 </project>
