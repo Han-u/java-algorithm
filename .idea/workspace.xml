@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e45defe0-c403-4b0e-ac75-54b65ff6e389" name="변경" comment="5. 조합">
-      <change afterPath="$PROJECT_DIR$/src/Recursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursivePractice.java" afterDir="false" />
+    <list default="true" id="e45defe0-c403-4b0e-ac75-54b65ff6e389" name="변경" comment="6 재귀함수">
+      <change afterPath="$PROJECT_DIR$/src/Logarithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LogarithmPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,21 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.RecursivePractice">
+  <component name="RunManager" selected="애플리케이션.LogarithmPractice">
+    <configuration name="Logarithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Logarithm" />
+      <module name="java-algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogarithmPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LogarithmPractice" />
+      <module name="java-algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumberOfCasesPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumberOfCasesPractice" />
       <module name="java-algorithm" />
@@ -63,6 +77,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.LogarithmPractice" />
+        <item itemvalue="애플리케이션.Logarithm" />
         <item itemvalue="애플리케이션.RecursivePractice" />
         <item itemvalue="애플리케이션.NumberOfCasesPractice" />
         <item itemvalue="애플리케이션.SetPractice" />
@@ -113,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658082395981</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="6 재귀함수">
+      <created>1658148302412</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658148302412</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +155,7 @@
     <MESSAGE value="2. 경우의수" />
     <MESSAGE value="3. 순열" />
     <MESSAGE value="5. 조합" />
-    <option name="LAST_COMMIT_MESSAGE" value="5. 조합" />
+    <MESSAGE value="6 재귀함수" />
+    <option name="LAST_COMMIT_MESSAGE" value="6 재귀함수" />
   </component>
 </project>
