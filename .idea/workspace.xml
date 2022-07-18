@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e45defe0-c403-4b0e-ac75-54b65ff6e389" name="변경" comment="7 지수와 로그">
-      <change afterPath="$PROJECT_DIR$/src/Complexity.java" afterDir="false" />
+    <list default="true" id="e45defe0-c403-4b0e-ac75-54b65ff6e389" name="변경" comment="8. 알고리즘 복잡도">
+      <change afterPath="$PROJECT_DIR$/src/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658149248941</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="8. 알고리즘 복잡도">
+      <created>1658150929776</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658150929776</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +171,7 @@
     <MESSAGE value="5. 조합" />
     <MESSAGE value="6 재귀함수" />
     <MESSAGE value="7 지수와 로그" />
-    <option name="LAST_COMMIT_MESSAGE" value="7 지수와 로그" />
+    <MESSAGE value="8. 알고리즘 복잡도" />
+    <option name="LAST_COMMIT_MESSAGE" value="8. 알고리즘 복잡도" />
   </component>
 </project>
