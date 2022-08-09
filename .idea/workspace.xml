@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e45defe0-c403-4b0e-ac75-54b65ff6e389" name="변경" comment="practice4">
+    <list default="true" id="e45defe0-c403-4b0e-ac75-54b65ff6e389" name="변경" comment="정렬">
       <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountingSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RadixSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortPractice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortPractice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortPractice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchPractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchPractice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchPractice5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,23 +43,23 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.SortPractice4">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+  <component name="RunManager" selected="애플리케이션.SearchPractice5">
+    <configuration name="SearchPractice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchPractice1" />
       <module name="java-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortPractice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortPractice1" />
+    <configuration name="SearchPractice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchPractice3" />
       <module name="java-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortPractice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortPractice2" />
+    <configuration name="SearchPractice5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchPractice5" />
       <module name="java-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.SearchPractice5" />
+        <item itemvalue="애플리케이션.SearchPractice3" />
+        <item itemvalue="애플리케이션.SearchPractice1" />
         <item itemvalue="애플리케이션.SortPractice4" />
         <item itemvalue="애플리케이션.SortPractice3" />
-        <item itemvalue="애플리케이션.SortPractice2" />
-        <item itemvalue="애플리케이션.SortPractice1" />
-        <item itemvalue="애플리케이션.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658168069016</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="정렬">
+      <created>1660032965331</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1660032965331</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,6 +215,7 @@
     <MESSAGE value="practice" />
     <MESSAGE value="practice2" />
     <MESSAGE value="practice4" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice4" />
+    <MESSAGE value="정렬" />
+    <option name="LAST_COMMIT_MESSAGE" value="정렬" />
   </component>
 </project>
