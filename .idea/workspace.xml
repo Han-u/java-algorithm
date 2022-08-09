@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e45defe0-c403-4b0e-ac75-54b65ff6e389" name="변경" comment="practice2">
-      <change afterPath="$PROJECT_DIR$/src/Practice10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice9.java" afterDir="false" />
+    <list default="true" id="e45defe0-c403-4b0e-ac75-54b65ff6e389" name="변경" comment="practice4">
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortPractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortPractice4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,37 +49,37 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.Practice9">
-    <configuration name="Practice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice3" />
+  <component name="RunManager" selected="애플리케이션.SortPractice4">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
       <module name="java-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice4" />
+    <configuration name="SortPractice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortPractice1" />
       <module name="java-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice5" />
+    <configuration name="SortPractice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortPractice2" />
       <module name="java-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice8" />
+    <configuration name="SortPractice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortPractice3" />
       <module name="java-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice9" />
+    <configuration name="SortPractice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortPractice4" />
       <module name="java-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Practice9" />
-        <item itemvalue="애플리케이션.Practice8" />
-        <item itemvalue="애플리케이션.Practice5" />
-        <item itemvalue="애플리케이션.Practice4" />
-        <item itemvalue="애플리케이션.Practice3" />
+        <item itemvalue="애플리케이션.SortPractice4" />
+        <item itemvalue="애플리케이션.SortPractice3" />
+        <item itemvalue="애플리케이션.SortPractice2" />
+        <item itemvalue="애플리케이션.SortPractice1" />
+        <item itemvalue="애플리케이션.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658161987494</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="practice4">
+      <created>1658168069016</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1658168069016</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,6 +213,7 @@
     <MESSAGE value="practice1" />
     <MESSAGE value="practice" />
     <MESSAGE value="practice2" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice2" />
+    <MESSAGE value="practice4" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice4" />
   </component>
 </project>
