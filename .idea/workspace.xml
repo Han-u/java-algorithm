@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e45defe0-c403-4b0e-ac75-54b65ff6e389" name="변경" comment="정렬">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchPractice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchPractice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchPractice4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchPractice5.java" afterDir="false" />
+    <list default="true" id="e45defe0-c403-4b0e-ac75-54b65ff6e389" name="변경" comment="탐색">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointersPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointersPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointersPractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointersPractice4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,20 +37,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
-  <component name="RunManager" selected="애플리케이션.SearchPractice5">
-    <configuration name="SearchPractice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SearchPractice1" />
-      <module name="java-algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="애플리케이션.TwoPointersPractice4">
     <configuration name="SearchPractice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SearchPractice3" />
       <module name="java-algorithm" />
@@ -65,15 +59,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortPractice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortPractice3" />
+    <configuration name="TwoPointers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointers" />
       <module name="java-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortPractice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortPractice4" />
+    <configuration name="TwoPointersPractice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointersPractice1" />
+      <module name="java-algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoPointersPractice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointersPractice4" />
       <module name="java-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.TwoPointersPractice4" />
+        <item itemvalue="애플리케이션.TwoPointersPractice1" />
+        <item itemvalue="애플리케이션.TwoPointers" />
         <item itemvalue="애플리케이션.SearchPractice5" />
         <item itemvalue="애플리케이션.SearchPractice3" />
-        <item itemvalue="애플리케이션.SearchPractice1" />
-        <item itemvalue="애플리케이션.SortPractice4" />
-        <item itemvalue="애플리케이션.SortPractice3" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660032965331</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="탐색">
+      <created>1660034481339</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1660034481339</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +224,7 @@
     <MESSAGE value="practice2" />
     <MESSAGE value="practice4" />
     <MESSAGE value="정렬" />
-    <option name="LAST_COMMIT_MESSAGE" value="정렬" />
+    <MESSAGE value="탐색" />
+    <option name="LAST_COMMIT_MESSAGE" value="탐색" />
   </component>
 </project>
