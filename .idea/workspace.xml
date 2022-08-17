@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e45defe0-c403-4b0e-ac75-54b65ff6e389" name="변경" comment="탐색">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointersPractice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointersPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointersPractice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointersPractice4.java" afterDir="false" />
+    <list default="true" id="e45defe0-c403-4b0e-ac75-54b65ff6e389" name="변경" comment="투포인터">
+      <change afterPath="$PROJECT_DIR$/src/Greedy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyPractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyPractice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GreedyPractice5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,37 +38,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="애플리케이션.TwoPointersPractice4">
-    <configuration name="SearchPractice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SearchPractice3" />
+}</component>
+  <component name="RunManager" selected="애플리케이션.GreedyPractice5">
+    <configuration name="Greedy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy" />
       <module name="java-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchPractice5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SearchPractice5" />
+    <configuration name="Greedy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy2" />
       <module name="java-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoPointers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointers" />
+    <configuration name="GreedyPractice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GreedyPractice2" />
       <module name="java-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoPointersPractice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointersPractice1" />
+    <configuration name="GreedyPractice5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GreedyPractice5" />
       <module name="java-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.GreedyPractice5" />
+        <item itemvalue="애플리케이션.GreedyPractice2" />
+        <item itemvalue="애플리케이션.Greedy2" />
+        <item itemvalue="애플리케이션.Greedy" />
         <item itemvalue="애플리케이션.TwoPointersPractice4" />
-        <item itemvalue="애플리케이션.TwoPointersPractice1" />
-        <item itemvalue="애플리케이션.TwoPointers" />
-        <item itemvalue="애플리케이션.SearchPractice5" />
-        <item itemvalue="애플리케이션.SearchPractice3" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660034481339</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="투포인터">
+      <created>1660726198110</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1660726198110</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,6 +233,18 @@
     <MESSAGE value="practice4" />
     <MESSAGE value="정렬" />
     <MESSAGE value="탐색" />
-    <option name="LAST_COMMIT_MESSAGE" value="탐색" />
+    <MESSAGE value="투포인터" />
+    <option name="LAST_COMMIT_MESSAGE" value="투포인터" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
