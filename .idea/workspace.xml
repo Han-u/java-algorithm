@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e45defe0-c403-4b0e-ac75-54b65ff6e389" name="변경" comment="투포인터">
-      <change afterPath="$PROJECT_DIR$/src/Greedy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Greedy2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GreedyPractice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GreedyPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GreedyPractice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GreedyPractice4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GreedyPractice5.java" afterDir="false" />
+    <list default="true" id="e45defe0-c403-4b0e-ac75-54b65ff6e389" name="변경" comment="그리디">
+      <change afterPath="$PROJECT_DIR$/src/DivideConquer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DivideConquerPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DivideConquerPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -205,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660726198110</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="그리디">
+      <created>1660748983808</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1660748983808</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,7 +238,8 @@
     <MESSAGE value="정렬" />
     <MESSAGE value="탐색" />
     <MESSAGE value="투포인터" />
-    <option name="LAST_COMMIT_MESSAGE" value="투포인터" />
+    <MESSAGE value="그리디" />
+    <option name="LAST_COMMIT_MESSAGE" value="그리디" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
