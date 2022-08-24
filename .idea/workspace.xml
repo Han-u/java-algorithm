@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e45defe0-c403-4b0e-ac75-54b65ff6e389" name="변경" comment="그리디">
-      <change afterPath="$PROJECT_DIR$/src/DivideConquer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DivideConquerPractice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DivideConquerPractice2.java" afterDir="false" />
+    <list default="true" id="e45defe0-c403-4b0e-ac75-54b65ff6e389" name="변경" comment="분할정복">
+      <change afterPath="$PROJECT_DIR$/src/BackTracking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTrackingPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTrackingPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTrackingPractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BackTrackingPractice4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Dp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DpPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DpPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DpPractice3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,23 +47,30 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.GreedyPractice5">
-    <configuration name="Greedy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy" />
+  <component name="RunManager" selected="애플리케이션.BackTrackingPractice4">
+    <configuration name="BackTracking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BackTracking" />
       <module name="java-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Greedy2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Greedy2" />
+    <configuration name="BackTrackingPractice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BackTrackingPractice2" />
       <module name="java-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GreedyPractice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GreedyPractice2" />
+    <configuration name="BackTrackingPractice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BackTrackingPractice3" />
+      <module name="java-algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackTrackingPractice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BackTrackingPractice4" />
       <module name="java-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,20 +83,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoPointersPractice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointersPractice4" />
-      <module name="java-algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.BackTrackingPractice4" />
+        <item itemvalue="애플리케이션.BackTrackingPractice3" />
+        <item itemvalue="애플리케이션.BackTrackingPractice2" />
+        <item itemvalue="애플리케이션.BackTracking" />
         <item itemvalue="애플리케이션.GreedyPractice5" />
-        <item itemvalue="애플리케이션.GreedyPractice2" />
-        <item itemvalue="애플리케이션.Greedy2" />
-        <item itemvalue="애플리케이션.Greedy" />
-        <item itemvalue="애플리케이션.TwoPointersPractice4" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660748983808</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="분할정복">
+      <created>1661158699054</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1661158699054</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,7 +251,8 @@
     <MESSAGE value="탐색" />
     <MESSAGE value="투포인터" />
     <MESSAGE value="그리디" />
-    <option name="LAST_COMMIT_MESSAGE" value="그리디" />
+    <MESSAGE value="분할정복" />
+    <option name="LAST_COMMIT_MESSAGE" value="분할정복" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
